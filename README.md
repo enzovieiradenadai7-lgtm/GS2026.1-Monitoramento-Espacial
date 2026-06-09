@@ -186,11 +186,8 @@ index.html
 
 Integrantes
 
-* Nome Completo do Integrante 1
-* Nome Completo do Integrante 2
-* Nome Completo do Integrante 3
-* Nome Completo do Integrante 4
-
+Enzo De Nadai Vieira -RM:569985
+Leonardo Duarte -RM:569029
 ---
 
 Conclusão
